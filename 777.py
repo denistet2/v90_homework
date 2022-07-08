@@ -1,4 +1,4 @@
-side_qr = input("Введите длину стороны: ")
+side_qr = input("Введите длину стороны квадрата: ")
 side = int(side_qr)
 sq_qr= int(side*side)
 perimetr=int(side*4)
