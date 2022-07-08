@@ -7,5 +7,7 @@ elif 3 <= a <= 5:
        print('Весна')
 elif 8 <= a <= 11:
        print('Осень')
-else:
+elif a < 12:
     print ('Зима')
+else:print ('В году 12 месяцев.')
+
